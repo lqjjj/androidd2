@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="5"
+    android:columnCount="3"
+    android:layout_margin="40dp"
+    tools:context=".UC5">
+    <Button
+        android:id="@+id/btn_1"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="1">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_2"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="2">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_3"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="3">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_4"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="4">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_5"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="5">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_6"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="6">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_7"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="7">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_8"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="8">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_9"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="9">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_10"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="0">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_11"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="+">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_12"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="-">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_13"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="*">
+
+    </Button>
+    <Button
+        android:id="@+id/btn_14"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="/">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn_15"
+        android:layout_width="105dp"
+        android:layout_height="90dp"
+        android:text="=" />
+
+</GridLayout>
